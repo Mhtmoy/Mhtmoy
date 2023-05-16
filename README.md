@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maruf_tonmoy@yahoo.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Mhtmoyanuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhtmoy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
